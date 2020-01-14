@@ -6,6 +6,10 @@ body {
 }
 
 
+img {
+  height: 100px;
+}
+
 hr {
   color: red;
   width: 300px;
@@ -20,6 +24,12 @@ ul {
 }
 li {
   float: left;
+}
+
+.card {
+  /* border:2px solid white;
+  border-radius: 10p; */
+
 }
 
 .nav-list {
