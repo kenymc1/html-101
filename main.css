@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+margin-left: 50%;
+margin-top: 10%;
+}
+
+hr {
+  color: red;
+  width: 300px;
+}
